@@ -13,7 +13,7 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "StableQ"
+title: "StableQ2025"
 description: "Quantum System Stability and Reproducibility Workshop"
 url: "https://stableq.org" # site url e.g. "https://manid2.github.io"
 #baseurl: "StableQ2024" # GitHub Pages: repository name

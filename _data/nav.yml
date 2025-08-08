@@ -12,6 +12,8 @@ header:
   # - title: "Program"
   #   url: "/program/"
   #   description: "Agenda of the StableQ workshop"
+  - title: "Travel Grant"
+    url: "/grant/"
   - title: "Committee"
     url: "/committee/"
     description: "Workshop chairs and program committee of StableQ workshop"

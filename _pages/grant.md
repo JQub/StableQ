@@ -16,20 +16,21 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 
 ## Reimbursement Amount
 
-<table>
+<table style="border: 1px solid #000; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="padding-right:40px;">Expense Type</th>
-      <th>Reimbursable</th>
+      <th style="padding: 8px 40px 8px 8px; border: 1px solid #000;">Expense Type</th>
+      <th style="padding: 8px; border: 1px solid #000;">Reimbursable</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Travel</td>
-      <td><strong>USD 500</strong></td>
+      <td style="padding: 8px; border: 1px solid #000;">Travel</td>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>USD 500</strong></td>
     </tr>
   </tbody>
 </table>
+
 
 Reimbursement is **post-conference**. All expenses must comply with the **Fly America Act**, and original receipts are required.
 
@@ -45,28 +46,29 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 ## Timeline
 
-<table>
+<table style="border: 1px solid #000; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="padding-right:40px;">Item</th>
-      <th>Date</th>
+      <th style="padding: 8px; border: 1px solid #000; width: 300px;">Item</th>
+      <th style="padding: 8px; border: 1px solid #000;">Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Application deadline</td>
-      <td><strong>5 Aug 2025 23:59 AoE</strong></td>
+      <td style="padding: 8px; border: 1px solid #000;">Application deadline</td>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>5 Aug 2025 23:59 AoE</strong></td>
     </tr>
     <tr>
-      <td>Notification</td>
-      <td><strong>15 Aug 2025</strong></td>
+      <td style="padding: 8px; border: 1px solid #000;">Notification</td>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>15 Aug 2025</strong></td>
     </tr>
     <tr>
-      <td>Deadline to submit receipts</td>
-      <td><strong>TBD</strong></td>
+      <td style="padding: 8px; border: 1px solid #000;">Deadline to submit receipts</td>
+      <td style="padding: 8px; border: 1px solid #000;"><strong>TBD</strong></td>
     </tr>
   </tbody>
 </table>
+
 
 
 ---
@@ -91,11 +93,10 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 ## FAQ — Reimbursement Process
 
-<h2>FAQ — Reimbursement Process</h2>
-
 <details>
   <summary><strong>What documents do I need to submit?</strong></summary>
-  <p><strong>Please prepare and submit the following:</strong></p>
+  
+  <p>Please prepare and submit the following:</p>
   <ol>
     <li><strong>Original receipts</strong> for travel, accommodation, and conference registration
         (electronic scans are acceptable unless otherwise specified).</li>
@@ -109,6 +110,7 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 <details>
   <summary><strong>When will I receive the reimbursement?</strong></summary>
+  
   <p>Reimbursements are typically processed <strong>within 4–6 weeks</strong> after your documents are approved.</p>
   <p>Payments will be made via <strong>international wire transfer</strong> or <strong>PayPal</strong>
      (depending on location and institutional restrictions). Detailed instructions will be included in your award notification.</p>
@@ -116,6 +118,7 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 <details>
   <summary><strong>Is Fly America compliance mandatory?</strong></summary>
+  
   <p><strong>Yes.</strong> If your travel is funded by this grant, the <strong>Fly America Act</strong>
      requires you to use a U.S. airline whenever possible.</p>
   <p>If no U.S. carrier is available for a flight segment, you must:</p>

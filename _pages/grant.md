@@ -16,11 +16,22 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 
 ## Reimbursement Amount
 
-| Expense Type          | Reimbursable |
-|----------------------|----------------------|
-| Travel                | **USD 500**        |
+<table>
+  <thead>
+    <tr>
+      <th style="padding-right:40px;">Expense Type</th>
+      <th>Reimbursable</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Travel</td>
+      <td><strong>USD 500</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-> Reimbursement is **post-conference**. All expenses must comply with the **Fly America Act**, and original receipts are required.
+Reimbursement is **post-conference**. All expenses must comply with the **Fly America Act**, and original receipts are required.
 
 ---
 
@@ -34,11 +45,29 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 
 ## Timeline
 
-| Item                     | Date |
-|-----------------------------------|------|
-| Application deadline | **5 Aug 2025 23:59 AoE** |
-| Notification        | **15 Aug 2025** |
-| Deadline to submit receipts | **TBD** |
+<table>
+  <thead>
+    <tr>
+      <th style="padding-right:40px;">Item</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Application deadline</td>
+      <td><strong>5 Aug 2025 23:59 AoE</strong></td>
+    </tr>
+    <tr>
+      <td>Notification</td>
+      <td><strong>15 Aug 2025</strong></td>
+    </tr>
+    <tr>
+      <td>Deadline to submit receipts</td>
+      <td><strong>TBD</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -62,42 +91,46 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 
 ## FAQ — Reimbursement Process
 
+<h2>FAQ — Reimbursement Process</h2>
+
 <details>
-<summary><strong>What documents do I need to submit?</strong></summary>
-
-**Please prepare and submit the following:**
-
-1. **Original receipts** for travel, accommodation, and conference registration (electronic scans are acceptable unless otherwise specified).
-2. **Boarding passes** or travel itineraries — may be requested to confirm travel completion, depending on funding requirements.
-3. **Passport** or government-issued ID (scan) for accounting and compliance purposes.
-4. **Completed reimbursement form** (template will be sent to awardees before the reimbursement stage).
-
-All documents must be clear, legible, and submitted by the stated deadline to avoid processing delays.
+  <summary><strong>What documents do I need to submit?</strong></summary>
+  <p><strong>Please prepare and submit the following:</strong></p>
+  <ol>
+    <li><strong>Original receipts</strong> for travel, accommodation, and conference registration
+        (electronic scans are acceptable unless otherwise specified).</li>
+    <li><strong>Boarding passes</strong> or travel itineraries — may be requested to confirm travel completion,
+        depending on funding requirements.</li>
+    <li><strong>Passport</strong> or government-issued ID (scan) for accounting and compliance purposes.</li>
+    <li><strong>Completed reimbursement form</strong> (template will be sent to awardees before the reimbursement stage).</li>
+  </ol>
+  <p>All documents must be clear, legible, and submitted by the stated deadline to avoid processing delays.</p>
 </details>
 
 <details>
-<summary><strong>When will I receive the reimbursement?</strong></summary>
-
-Reimbursements are typically processed **within 4–6 weeks** after your documents are approved.  
-Payments will be made via **international wire transfer** or **PayPal** (depending on location and institutional restrictions).  
-Detailed instructions will be included in your award notification.
+  <summary><strong>When will I receive the reimbursement?</strong></summary>
+  <p>Reimbursements are typically processed <strong>within 4–6 weeks</strong> after your documents are approved.</p>
+  <p>Payments will be made via <strong>international wire transfer</strong> or <strong>PayPal</strong>
+     (depending on location and institutional restrictions). Detailed instructions will be included in your award notification.</p>
 </details>
 
 <details>
-<summary><strong>Is Fly America compliance mandatory?</strong></summary>
-
-**Yes.** If your travel is funded by this grant, the **Fly America Act** requires you to use a U.S. airline whenever possible.  
-If no U.S. carrier is available for a flight segment, you must:
-
-- Provide a screenshot showing available flights  
-- Explain the situation in the remarks section of your reimbursement form  
-
-Failure to follow this rule may result in partial or no reimbursement for that flight.
+  <summary><strong>Is Fly America compliance mandatory?</strong></summary>
+  <p><strong>Yes.</strong> If your travel is funded by this grant, the <strong>Fly America Act</strong>
+     requires you to use a U.S. airline whenever possible.</p>
+  <p>If no U.S. carrier is available for a flight segment, you must:</p>
+  <ul>
+    <li>Provide a screenshot showing available flights</li>
+    <li>Explain the situation in the remarks section of your reimbursement form</li>
+  </ul>
+  <p>Failure to follow this rule may result in partial or no reimbursement for that flight.</p>
 </details>
 
 
 ---
+<p><strong>Questions?</strong> Please contact us at
+  <a href="mailto:hwu28@gmu.edu">hwu28@gmu.edu</a>.
+</p>
 
-**Questions?** Please email your inquiry to [hwu28@gmu.edu](mailto:hwu28@gmu.edu).
 
 

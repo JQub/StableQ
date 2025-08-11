@@ -15,7 +15,7 @@ permalink: /grant/
 
 | Expense Type          | Maximum Reimbursable |
 |-----------------------|----------------------|
-| Travel (air/train)    | **USD 500 – 800** (scaled by the final number of awardees) |
+| Travel                | ** USD 500 **        |
 
 > Reimbursement is **post-conference**. All expenses must comply with the **Fly America Act**, and original receipts are required.
 
@@ -23,7 +23,7 @@ permalink: /grant/
 
 ### Eligibility
 
-* Undergraduate / graduate students, or PhD holders within 3 years  
+* Undergraduate / graduate students 
 * Must register and attend Q-CORE onsite (proof of registration required at reimbursement stage)  
 * One application per person; duplicate funding from other sources is discouraged
 
@@ -35,7 +35,7 @@ permalink: /grant/
 |--------------------|------|
 | Application deadline | **5 Aug 2025 23:59 AoE** |
 | Notification        | **15 Aug 2025** |
-| Deadline to submit receipts | 10 Oct 2025 |
+| Deadline to submit receipts | TBD |
 
 ---
 
@@ -53,9 +53,8 @@ permalink: /grant/
 ### Review Criteria
 
 1. Relevance and quality of the applicant’s research / submission  
-2. Motivation and potential contribution to the workshop community  
-3. Diversity considerations (institution, geography, gender, background)  
-4. Financial need
+2. Motivation and potential contribution to the workshop community    
+3. Financial need
 
 ---
 
@@ -93,4 +92,3 @@ Yes. If no US carrier serves a segment, include a screenshot of available flight
 ---
 
 **Questions?** Contact us at  
-📧 <a href="mailto:hwu28@gmu.edu">hwu28@gmu.edu</a>

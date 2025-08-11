@@ -6,22 +6,25 @@ permalink: /grant/
 
 ## Travel Grant · Q-CORE @ QCE 2025
 
-> **Q-CORE (Quantum-Classical Orchestration for Resilient Engineering)** is a joint workshop created by merging the StableQ and DCHCQCS communities.  
-> It focuses on dependable quantum-classical systems.
+The Q-CORE Travel Grant is designed to encourage and support student participation in the Q-CORE workshop at QCE 2025. We aim to make it easier for students—especially those who might otherwise face financial barriers—to attend and engage with the community.
+
+Special consideration will be given to undergraduate students, early-stage graduate students, first-time QCE attendees, and those from institutions with limited research funding in quantum technology. By supporting their participation, we hope to foster the exchange of scientific ideas, stimulate interest in dependable quantum-classical systems, and inspire the next generation of researchers.
+
+You do not need to be a paper author or presenter to apply. Grants will reimburse documented expenses post-conference in accordance with funding guidelines.
 
 ---
 
-### Reimbursement Amount
+## Reimbursement Amount
 
 | Expense Type          | Maximum Reimbursable |
-|-----------------------|----------------------|
-| Travel                | ** USD 500 **        |
+|----------------------|----------------------|
+| Travel                | **USD 500**        |
 
 > Reimbursement is **post-conference**. All expenses must comply with the **Fly America Act**, and original receipts are required.
 
 ---
 
-### Eligibility
+## Eligibility
 
 * Undergraduate / graduate students 
 * Must register and attend Q-CORE onsite (proof of registration required at reimbursement stage)  
@@ -29,17 +32,17 @@ permalink: /grant/
 
 ---
 
-### Timeline
+## Timeline
 
-| Item               | Date |
-|--------------------|------|
+| Item                     | Date |
+|--------------------------|------|
 | Application deadline | **5 Aug 2025 23:59 AoE** |
 | Notification        | **15 Aug 2025** |
-| Deadline to submit receipts | TBD |
+| Deadline to submit receipts | **TBD** |
 
 ---
 
-### How to Apply  <span class="badge badge-primary">Google Form</span>
+## How to Apply — via Google Form
 
 <div class="text-center my-4">
   <a class="btn btn-primary btn-lg" target="_blank" rel="noopener"
@@ -48,17 +51,10 @@ permalink: /grant/
   </a>
 </div>
 
----
-
-### Review Criteria
-
-1. Relevance and quality of the applicant’s research / submission  
-2. Motivation and potential contribution to the workshop community    
-3. Financial need
 
 ---
 
-### Awardees
+## Awardees
 
 > *To be announced* — the list will be posted after notifications are sent on **15 Aug 2025**.
 
@@ -72,23 +68,54 @@ permalink: /grant/
 * Original receipts for travel, accommodation, registration  
 * Passport or government-issued ID (scan) for accounting records  
 * The completed reimbursement form (template provided in the award email)
+* Completed reimbursement form (template will be sent to awardees before the reimbursement stage).
+Please prepare and submit the following:  
+
+1. **Original receipts** for travel, accommodation, and conference registration (electronic scans are acceptable unless otherwise specified).  
+2. **Boarding passes** or travel itineraries (to confirm travel completion, if required).  
+3. **Passport** or government-issued ID (scan) for accounting and compliance purposes.  
+4. **Completed reimbursement form** (template will be provided in your award notification email).  
+
+All documents must be clear, legible, and submitted by the stated deadline to avoid processing delays.
+
 
 </details>
 
 <details>
 <summary>When will I receive the reimbursement?</summary>
 
-Within 4–6 weeks after your documents are approved, via international wire transfer or PayPal.
+Reimbursements are typically processed within 4–6 weeks after your documents are reviewed and approved.  
+Payments will be processed via international wire transfer or PayPal (depending on your location and institutional restrictions). Detailed instructions will be provided in the award notification.
 
 </details>
 
 <details>
 <summary>Is Fly America compliance mandatory?</summary>
 
-Yes. If no US carrier serves a segment, include a screenshot of available flights and explain in the remarks.
+**Yes.** If your travel is funded by this grant, the **Fly America Act** requires you to use a U.S. airline whenever possible.  
+If no U.S. carrier is available for a flight segment, you must:  
+
+- Provide a screenshot showing available flights  
+- Explain the situation in the remarks section of your reimbursement form  
+
+Failure to follow this rule may result in partial or no reimbursement for that flight.
+
 
 </details>
 
 ---
 
-**Questions?** Contact us at  
+**Questions?** Please leave your inquiry in the comment form below — we’ll get back to you as soon as possible.
+
+{% if site.disqus.shortname %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {};
+(function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+{% endif %}

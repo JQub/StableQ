@@ -16,7 +16,7 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 
 ## Reimbursement Amount
 
-| Expense Type          | Maximum Reimbursable |
+| Expense Type          | Reimbursable |
 |----------------------|----------------------|
 | Travel                | **USD 500**        |
 
@@ -35,7 +35,7 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 ## Timeline
 
 | Item                     | Date |
-|--------------------------|------|
+|-----------------------------------|------|
 | Application deadline | **5 Aug 2025 23:59 AoE** |
 | Notification        | **15 Aug 2025** |
 | Deadline to submit receipts | **TBD** |
@@ -63,59 +63,41 @@ You do not need to be a paper author or presenter to apply. Grants will reimburs
 ## FAQ — Reimbursement Process
 
 <details>
-<summary>What documents do I need to submit?</summary>
+<summary><strong>What documents do I need to submit?</strong></summary>
 
-* Original receipts for travel, accommodation, registration  
-* Passport or government-issued ID (scan) for accounting records  
-* The completed reimbursement form (template provided in the award email)
-* Completed reimbursement form (template will be sent to awardees before the reimbursement stage).
-Please prepare and submit the following:  
+**Please prepare and submit the following:**
 
-1. **Original receipts** for travel, accommodation, and conference registration (electronic scans are acceptable unless otherwise specified).  
-2. **Boarding passes** or travel itineraries (to confirm travel completion, if required).  
-3. **Passport** or government-issued ID (scan) for accounting and compliance purposes.  
-4. **Completed reimbursement form** (template will be provided in your award notification email).  
+1. **Original receipts** for travel, accommodation, and conference registration (electronic scans are acceptable unless otherwise specified).
+2. **Boarding passes** or travel itineraries — may be requested to confirm travel completion, depending on funding requirements.
+3. **Passport** or government-issued ID (scan) for accounting and compliance purposes.
+4. **Completed reimbursement form** (template will be sent to awardees before the reimbursement stage).
 
 All documents must be clear, legible, and submitted by the stated deadline to avoid processing delays.
-
-
 </details>
 
 <details>
-<summary>When will I receive the reimbursement?</summary>
+<summary><strong>When will I receive the reimbursement?</strong></summary>
 
-Reimbursements are typically processed within 4–6 weeks after your documents are reviewed and approved.  
-Payments will be processed via international wire transfer or PayPal (depending on your location and institutional restrictions). Detailed instructions will be provided in the award notification.
-
+Reimbursements are typically processed **within 4–6 weeks** after your documents are approved.  
+Payments will be made via **international wire transfer** or **PayPal** (depending on location and institutional restrictions).  
+Detailed instructions will be included in your award notification.
 </details>
 
 <details>
-<summary>Is Fly America compliance mandatory?</summary>
+<summary><strong>Is Fly America compliance mandatory?</strong></summary>
 
 **Yes.** If your travel is funded by this grant, the **Fly America Act** requires you to use a U.S. airline whenever possible.  
-If no U.S. carrier is available for a flight segment, you must:  
+If no U.S. carrier is available for a flight segment, you must:
 
 - Provide a screenshot showing available flights  
 - Explain the situation in the remarks section of your reimbursement form  
 
 Failure to follow this rule may result in partial or no reimbursement for that flight.
-
-
 </details>
+
 
 ---
 
-**Questions?** Please leave your inquiry in the comment form below — we’ll get back to you as soon as possible.
+**Questions?** Please email your inquiry to [hwu28@gmu.edu](mailto:hwu28@gmu.edu).
 
-{% if site.disqus.shortname %}
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {};
-(function() {
-    var d = document, s = d.createElement('script');
-    s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-})();
-</script>
-{% endif %}
+

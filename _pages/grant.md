@@ -87,7 +87,22 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 ## Awardees
 
-> *To be announced* — the list will be posted after notifications are sent on **15 Aug 2025**.
+*Congratulations to our awardees!*  
+*Listed in alphabetical order – no ranking implied.*
+
+- William Aguilar-Calvo  
+- Devon Campbell  
+- Zhonghao Chen  
+- Zihan Chen  
+- Unique Dhakal  
+- Siham Essahraui  
+- Yayu Mo  
+- Jai Nana  
+- Konstantinos Nikolaos Papadopoulos  
+- Hrushikesh Pramod Patil  
+- Nadine Tamish  
+- Zhemin Zhang
+
 
 ---
 

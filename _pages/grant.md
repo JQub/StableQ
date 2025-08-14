@@ -87,7 +87,7 @@ Reimbursement is **post-conference**. All expenses must comply with the **Fly Am
 
 ## Awardees
 
-*Congratulations to our awardees!*  
+Congratulations to our awardees! 
 *Listed in alphabetical order – no ranking implied.*
 
 - William Aguilar-Calvo  

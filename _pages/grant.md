@@ -95,12 +95,14 @@ Congratulations to our awardees!
 - Zhonghao Chen  
 - Zihan Chen  
 - Unique Dhakal  
-- Siham Essahraui  
+- Siham Essahraui
+- Jiyao Liu  
 - Yayu Mo  
 - Jai Nana  
 - Konstantinos Nikolaos Papadopoulos  
 - Hrushikesh Pramod Patil  
-- Nadine Tamish  
+- Nadine Tamish
+- Qimao Yang 
 - Zhemin Zhang
 
 

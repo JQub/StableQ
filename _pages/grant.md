@@ -152,6 +152,9 @@ Congratulations to our awardees!
   <p><strong>No.</strong> These items are outside the scope of the travel grant. Participants are expected to make their own arrangements for accommodation, insurance, and visa-related matters.
 </details>
 
+
+
+
 ---
 <p><strong>Questions?</strong> Please contact us at
   <a href="mailto:hwu28@gmu.edu">hwu28@gmu.edu</a>.

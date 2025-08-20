@@ -149,7 +149,7 @@ Congratulations to our awardees!
 <details>
   <summary><strong>Does the travel grant cover accommodation, insurance, or visa support?</strong></summary>
   
-  <p><strong>No.</strong> These items are outside the scope of the travel grant. Participants are expected to make their own arrangements for accommodation, insurance, and visa-related matters.
+  <p><strong>No.</strong> These items are outside the scope of the travel grant. Participants are expected to make their own arrangements for accommodation, insurance, and visa-related matters.</p>
 </details>
 
 

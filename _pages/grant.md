@@ -94,17 +94,15 @@ Congratulations to our awardees!
 - Devon Campbell  
 - Zhonghao Chen  
 - Zihan Chen  
-- Unique Dhakal  
-- Siham Essahraui
-- Jiyao Liu  
-- Yayu Mo  
+- Jiyao Liu   
 - Jai Nana  
 - Konstantinos Nikolaos Papadopoulos  
 - Hrushikesh Pramod Patil  
-- Nadine Tamish
 - Qimao Yang 
 - Zhemin Zhang
-
+- Siham Essahraui
+- Yayu Mo 
+- Unique Dhakal  
 
 ---
 

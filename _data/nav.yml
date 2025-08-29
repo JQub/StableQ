@@ -26,7 +26,7 @@ header:
 footer:
   - owner: "StableQ"
     url: # link if any
-    description: 'StableQ 2025<br>Sponsor: <a href="https://nsf.gov" target="_blank" rel="noopener"><img src="/assets/images/NSF_logo.png" alt="NSF logo" height="120"></a>'
+    description: 'Sponsor:<br><a href="https://nsf.gov" target="_blank" rel="noopener"><img src="/assets/images/NSF_logo.png" alt="NSF logo" height="120"></a>'
      
     # bio: "Any questions, please contact Dr. Yuhong Song" # short bio
     # mail: "yuhongsong23@gmail.com"

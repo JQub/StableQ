@@ -27,7 +27,8 @@ footer:
   - owner: "StableQ"
     url: # link if any
     description: |
-      StableQ 2025  
+      StableQ 2025 
+      <br>
       Sponsored in part by the National Science Foundation (NSF)
     # bio: "Any questions, please contact Dr. Yuhong Song" # short bio
     # mail: "yuhongsong23@gmail.com"

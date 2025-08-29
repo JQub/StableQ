@@ -26,7 +26,9 @@ header:
 footer:
   - owner: "StableQ"
     url: # link if any
-    description: "StableQ 2025"
+    description: |
+      StableQ 2025  
+      Sponsored in part by the National Science Foundation (NSF)
     # bio: "Any questions, please contact Dr. Yuhong Song" # short bio
     # mail: "yuhongsong23@gmail.com"
     # address: "AT&T Hotel and Conference Center, Austin, TX, USA"

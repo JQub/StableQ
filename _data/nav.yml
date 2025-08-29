@@ -26,12 +26,25 @@ header:
 footer:
   - owner: "StableQ"
     url: # link if any
-    description: |
-      StableQ 2025 
-      <br>
-      Sponsor: <a href="https://nsf.gov" target="_blank" rel="noopener">
-        <img src="/assets/images/NSF_logo.png" alt="NSF logo" height="40">
-      </a>
+    # description: |
+    #   StableQ 2025 
+    #   <br>
+    #   Sponsor: <a href="https://nsf.gov" target="_blank" rel="noopener">
+    #     <img src="/assets/images/NSF_logo.png" alt="NSF logo" height="40">
+    #   </a>
+      description: |
+        <div style="text-align: center;">
+          <div style="font-weight: bold; font-size: 28px; margin-bottom: 12px;">
+            StableQ 2025
+          </div>
+          <div style="display: inline-flex; align-items: center; gap: 14px; font-weight: bold; font-size: 22px;">
+            <span>Sponsor:</span>
+            <a href="https://nsf.gov" target="_blank" rel="noopener">
+              <img src="/assets/images/NSF_logo.png" alt="NSF logo" height="50" style="vertical-align: middle;">
+            </a>
+          </div>
+        </div>
+
     # bio: "Any questions, please contact Dr. Yuhong Song" # short bio
     # mail: "yuhongsong23@gmail.com"
     # address: "AT&T Hotel and Conference Center, Austin, TX, USA"
